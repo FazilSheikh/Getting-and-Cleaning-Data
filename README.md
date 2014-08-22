@@ -1,11 +1,17 @@
 Getting-and-Cleaning-Data
 =========================
 
-My Repository for the course 'Getting and Cleaning Data' on Coursera
+My Repository for the course 'Getting and Cleaning Data' on Coursera.
+
 It contains the following files :
+
 README.md
+
 CodeBook.md
+
 run_analysis.R
+
+tidy.txt
 
 The README file gives overall description about the project. 
 The code book describes the variables, the data and the transformations/work performed to clean up the data.
@@ -16,6 +22,8 @@ The R script called 'run_analysis.R' that does the following:
 3.Uses descriptive activity names to name the activities in the data set
 4.Appropriately labels the data set with descriptive variable names. 
 5.Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+
+The 'tidy.txt' is the output file
 
 How Script Works :
 

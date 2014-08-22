@@ -1,4 +1,6 @@
-CodeBook for the tidy dataset
+CodeBook for the tidy dataset / Peer Assessments - Getting and Cleaning Data Course Projec
+
+This code book describes the variables, the data and the transformations/work  performed to clean up the data.
 
 Original data source :
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here:
